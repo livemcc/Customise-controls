@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§aCreated by LIVE MC",
+        "name": "Customise controls",
+        "uuid": "2599fe2c-531d-4841-beb9-c5676b29b12c",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            40
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "4bb987be-27f6-4790-9967-587a7df1da90",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "touch_section/common_touch_settings/modify_control_layout_section": {
+        "modifications": [
+            {
+                "array_name": "bindings",
+                "operation": "remove",
+                "where": {
+                    "binding_name": "#resizable_ui_active"
+                }
+            }
+        ]
+    }
+}
